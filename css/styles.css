@@ -198,6 +198,7 @@ body {
 /* Filtr buttons styles */
 
 .filtr-button {
+  font-family: inherit;
   background-color: var(--section-background-color);
   color: var(--title-text-color);
   font-weight: 500;
