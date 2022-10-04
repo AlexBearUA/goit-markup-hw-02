@@ -16,9 +16,8 @@
 body {
   background-color: var(--main-background-color);
   color: var(--main-text-color);
-  font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
-  font-weight: 400;
 }
 
 .visually-hidden {
@@ -52,13 +51,13 @@ body {
 
 .logo-header {
   color: var(--logo-end-color);
-  font-weight: 400;
+
   line-height: 1.38;
 }
 
 .logo-footer {
   color: var(--main-background-color);
-  font-weight: 400;
+
   line-height: 1.38;
 }
 
